@@ -1,4 +1,4 @@
-# NBA Positionless Basketball Project
+# NBA Archetype Discovery Project
 
 ## Summary
 With the rise of positionless basketball in the NBA, the traditional five positions on the court (PG, SG, SF, PF, C) are no longer descriptive enough for determining the on-court value and skillset of a player. Using various statistical methods and data mining techniques, this project aims to identify data-driven archetypes of players that exist beyond the traditional 5 archetypes and how they have impacted teams over time. By segmenting players into clusters using performance data drawn from NBA statistics over time, we can better understand the evolution of different player archetypes and outliers that may exist.
